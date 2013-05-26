@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Eric -- Project starter
+
+# THANKS
+
+    Clipboard icon -- http://findicons.com/icon/178320/clipboard_text?id=395985
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CKeditor
